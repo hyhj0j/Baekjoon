@@ -2,6 +2,9 @@
 1A.cpp
 1Q.cpp
 2A.cpp
+ITE1.cpp
+ITE2.cpp
+ITE3.cpp
 
 ## 다음과 같은 확장자는 전체 무시
 *.exe
