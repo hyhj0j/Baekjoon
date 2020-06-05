@@ -40,9 +40,11 @@
 
 # GROUP BY : 같은 값을 가진 애들을 하나의 그룹으로 취급
 
-# HAVING : GROUP BY 결과에 조건달기 (EX; SELECT의 WHERE 느낌), 집계함수(MAX, MIN, SUM, AVG 등)사용해야함
+# HAVING : GROUP BY 결과에 조건달기
 
-# UNION 서로 다른 테이블을 합쳐서 값 추출..(?)
+    (EX; SELECT의 WHERE 느낌), 집계함수(MAX, MIN, SUM, AVG 등)사용해야함
+
+# UNION : 서로 다른 테이블을 합쳐서 값 추출..(?)
 
 # JOIN ========================================
 
